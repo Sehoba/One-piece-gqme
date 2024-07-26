@@ -1,0 +1,3 @@
+git remote add Herkunft https://github.com/Sehoba/One-piece-gqme.git
+ git branch -M main 
+git push -u Herkunft main
